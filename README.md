@@ -1,6 +1,6 @@
-# NIS-Drug-Prediction
-This project consist of: 
+# DATA ANALYSIS PROJECT
+This page consist of series of data science projects and each project consists of: 
 Data Cleaning
-Data Exploration and
+Data Exploration 
 Data Prepocessing 
-using python and powerbi
+and feature engineering
